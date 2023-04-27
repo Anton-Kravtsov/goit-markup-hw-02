@@ -73,8 +73,13 @@ button {
   flex-grow: 0;
 }
 
-.link-item:hover,
-.link-item:focus {
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+
+.menu-link:hover,
+.menu-link:focus {
   color: #404bbf;
 }
 
