@@ -78,8 +78,8 @@ button {
   color: #404bbf;
 }
 
-.menu-link:hover,
-.menu-link:focus {
+.link-item:hover,
+.link-item:focus {
   color: #404bbf;
 }
 
