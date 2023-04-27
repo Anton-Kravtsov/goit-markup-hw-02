@@ -170,4 +170,25 @@ button {
   background-color: #404bbf;
 }
 
-/* =================our features================ */
+/* =================gallery================ */
+
+.gallery-section {
+  background-color: var(--light);
+}
+.gallery-secondary-header {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--dark-headers-text);
+}
+
+.gallery-paragraph {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--body-text);
+}
