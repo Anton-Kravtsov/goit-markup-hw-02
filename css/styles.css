@@ -2,6 +2,23 @@
 
 /* general */
 
+:root {
+  --main-font-family: 'Roboto', sans-serif;
+  --secondary-font-family: 'Raleway', sans-serif;
+  --primary-brand: #4d5ae5;
+  --pressed-state: #404bbf;
+  --dark-headers-text: #2e2f42;
+  --success: #31d0aa;
+  --body-text: #434455;
+  --subtitle-text: #8e8f99;
+  --accent: #e7e9fc;
+  --light: #f4f4fd;
+  --modal-overlay: #2e2f42;
+  --hero-background: #2e2f42;
+  --white-background: #ffffff;
+  --modal-background: #fcfcfc;
+}
+
 .list {
   list-style: none;
 }
@@ -12,6 +29,8 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: var(--white-background);
 }
 
 button {
