@@ -107,6 +107,12 @@ button {
   color: #434455;
 }
 
+/* =====================hero==================== */
+
+.hero {
+  background-color: var(--hero-background);
+}
+
 .modal-btn {
   font-family: 'Roboto', sans-serif;
 
