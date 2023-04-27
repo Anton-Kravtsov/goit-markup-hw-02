@@ -113,6 +113,15 @@ button {
   background-color: var(--hero-background);
 }
 
+.main-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
 .modal-btn {
   font-family: 'Roboto', sans-serif;
 
@@ -129,4 +138,9 @@ button {
   flex: none;
   order: 0;
   flex-grow: 0;
+}
+
+.modal-btn:hover,
+.modal-btn:focus {
+  background-color: #404bbf;
 }
