@@ -75,7 +75,7 @@ button {
 
 .menu-link:hover,
 .menu-link:focus {
-  color: var(--pressed-state);
+  color: #404bbf;
 }
 
 .info {
