@@ -32,6 +32,15 @@ body {
   color: #434455;
   background-color: var(--white-background);
 }
+.section-header {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--dark-headers-text);
+}
 
 button {
   cursor: pointer;
@@ -144,3 +153,5 @@ button {
 .modal-btn:focus {
   background-color: #404bbf;
 }
+
+/* =================our features================ */
