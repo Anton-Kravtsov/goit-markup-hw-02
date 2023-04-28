@@ -80,10 +80,6 @@ button {
   color: var(--dark-headers-text);
 }
 
-.footer-logo-color {
-  color: var(--light);
-}
-
 .menu-link {
   width: 48px;
   height: 24px;
@@ -207,4 +203,14 @@ button {
 
 .gallery-secondary-list {
   background-color: var(--white-background);
+}
+
+/* =========================footer====================== */
+
+.footer-main {
+  background-color: var(--hero-background);
+}
+
+.footer-logo-color {
+  color: var(--light);
 }
