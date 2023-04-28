@@ -226,3 +226,9 @@ button {
   color: var(--primary-brand);
   background-color: var(--light);
 }
+
+.filter-btn:hover,
+.filter-btn:focus {
+  color: var(--white-background);
+  background-color: var(--pressed-state);
+}
