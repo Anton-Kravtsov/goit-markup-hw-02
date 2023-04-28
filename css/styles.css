@@ -193,6 +193,14 @@ button {
   color: var(--body-text);
 }
 
+.text-descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--body-text);
+}
+
 .gallery-secondary-list {
   background-color: var(--white-background);
 }
