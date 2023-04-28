@@ -213,4 +213,15 @@ button {
 
 /* ========================portfolio===================== */
 
-.portfolio-main-section
+.filter-btn {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+
+  color: var(--white-background);
+}
