@@ -223,5 +223,6 @@ button {
   text-align: center;
   letter-spacing: 0.04em;
 
-  color: var(--white-background);
+  color: var(--primary-brand);
+  background-color: var(--light);
 }
