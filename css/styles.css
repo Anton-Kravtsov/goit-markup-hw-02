@@ -93,6 +93,15 @@ button {
   order: 0;
   flex-grow: 0;
 }
+.link-item:hover,
+.link-item:focus {
+  color: var(--pressed-state);
+}
+
+.menu-link:hover,
+.menu-link:focus {
+  color: var(--pressed-state);
+}
 
 .info {
   font-style: normal;
