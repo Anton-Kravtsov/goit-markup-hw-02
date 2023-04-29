@@ -94,11 +94,6 @@ button {
   flex-grow: 0;
 }
 
-.menu-link:hover,
-.menu-link:focus {
-  color: var(--pressed-state);
-}
-
 .info {
   font-style: normal;
 }
